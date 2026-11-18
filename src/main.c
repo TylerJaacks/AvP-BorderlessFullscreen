@@ -1,7 +1,7 @@
 /*
  * d3d9_borderless - drop-in d3d9.dll proxy that forces borderless fullscreen.
  *
- /
+ */
 #define WIN32_LEAN_AND_MEAN
 #include <windows.h>
 #include <d3d9.h>
